@@ -1,4 +1,3 @@
-import './App.css';
 import GPACalculator from './components/GPACalculator';
 
 
